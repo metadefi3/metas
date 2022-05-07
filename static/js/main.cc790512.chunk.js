@@ -754,7 +754,7 @@
                                             }),
                                             Object(k.jsx)("p", {
                                                 className: "slogan",
-                                                children: "META质押奖励池，每24小时【高达50%】的质押奖励和13%的直推奖励",
+                                                children: "META质押奖励池，每24小时【高达50%】的质押奖励和13%的直推奖励 每次提现真实算力会减半 直至消失",
                                             }),
                                             K() ?
                                             null :
