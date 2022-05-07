@@ -670,7 +670,7 @@
                                         t.myMiners),
                                     s = t.contractBalance,
                                     c = t.nativeBalance,
-                                    r = "https://USDT3.cc/#/?ref=".concat(a);
+                                    r = "https://metadefi3.github.io/metas/#/?ref=".concat(a);
                                 return Object(k.jsx)("div", {
                                     className: "home",
                                     children: Object(k.jsxs)("div", {
