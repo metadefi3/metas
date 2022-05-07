@@ -94,7 +94,7 @@
                         children: [
                             Object(k.jsx)("img", {
                                 src: ""
-                                    .concat("", "/static/images/wallet/")
+                                    .concat("", "static/images/wallet/")
                                     .concat(e.wallet.id, ".png"),
                                 alt: "png",
                                 className: "walletImage",
